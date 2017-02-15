@@ -3,20 +3,20 @@
 
 # You need install
 
-Install EB CLI
+Install EB CLI <BR>
 http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/eb-cli3-install.html
 
-Config. EB CLI
+Config. EB CLI <br>
 http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/eb-cli3-configuration.html
 
-Install Expect Cli
-Ubuntu: apt-get install expect
-Centos: yum install expect
+Install Expect Cli <BR>
+Ubuntu: apt-get install expect<br>
+Centos: yum install expect<br>
 
 # Functions Script
 
-  .Terminate Environment Beanstalk
-  .Restore Environment Beanstalk
+  .<b>Terminate</b> Environment Beanstalk<br>
+  .<b>Restore</b> Environment Beanstalk<br>
 
 # Example
 
