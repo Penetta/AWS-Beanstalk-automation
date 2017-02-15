@@ -5,6 +5,7 @@
 #  CSC
 #
 
+eb init
 
 OPTION=$1
 NAME_APP=$2
