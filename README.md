@@ -20,9 +20,9 @@ Centos: yum install expect<br>
 
 # Example
 
-  ./aws-beanstalk terminate Name-app<br>
-  ./aws-beanstalk restore Id-app<br>
-  ./aws-beanstalk get_id Name-app<br>
+  ./aws-beanstalk <b>terminate</b> Name-app<br>
+  ./aws-beanstalk <b>restore</b> Id-app<br>
+  ./aws-beanstalk <b>get_id</b> Name-app<br>
   
 
 # Contact
